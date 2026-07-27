@@ -31,8 +31,8 @@ proxmox-lab/
 
 ## 📚 Documentação
 
-Documentação técnica completa em [infrastructure-documentation](https://github.com/vitones123/infrastructure-documentation).
-Laboratórios práticos relacionados em [homelab](https://github.com/vitones123/homelab).
+Documentação técnica completa em [infrastructure-documentation](https://github.com/vitorcardoso-ti/infrastructure-documentation).
+Laboratórios práticos relacionados em [homelab](https://github.com/vitorcardoso-ti/homelab).
 
 ## 🗺️ Roadmap Futuro
 
